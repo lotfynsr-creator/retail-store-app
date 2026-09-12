@@ -244,10 +244,9 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/YOUR_USERNAME/retail-store-app/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/YOUR_USERNAME/retail-store-app/discussions)
-- **Email**: your-email@example.com
-
+- **Issues**: [GitHub Issues](https://github.com/lotfynsr-creator)
+- **Discussions**: [GitHub Discussions](https://github.com/lotfynsr-creator)
+- **Email**: lotfynsrzx123uh@gmail.com
 ---
 
 <p align="center">Made with ❤️ using Flutter & Firebase</p>
